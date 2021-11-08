@@ -1,0 +1,6 @@
+[submodule "BSc-Thesis-Project-Soha-DCS-Frontend"]
+	path = SohaDataCollectionSystemFrontend
+	url = git@github.com:ParsaHejabi/BSc-Thesis-Project-Soha-DCS-Frontend.git
+[submodule "BSc-Thesis-Project-Soha-DCS-Backend"]
+	path = SohaDataCollectionSystemBackend
+	url = git@github.com:ParsaHejabi/BSc-Thesis-Project-Soha-DCS-Backend.git
