@@ -1,6 +1,4 @@
-<div align="center">
-  <h1 align="center">Bachelor Thesis Project: Information Extraction from users’ requests in the Soha system</h1>
-</div>
+<h1 align="center">Bachelor Thesis Project: Information Extraction from users’ requests in the Soha system</h1>
 
 ## About The Project
 
@@ -26,9 +24,9 @@ This repository contains:
 - Codes related to a MERNG crowdsourcing web application to collect students' sample inputs using gamification methods
 - A Jupyter notebook containing the Information Extraction phase of the project using the BERT language model.
 
-<!-- Notebook | Link
--------- | ----------
-Linear regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/HW1/COVID19_Iran_linear.ipynb) -->
+| Notebook        | Link                                                                                                                                                                                                                                        |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Jupyter Network | <a href="https://colab.research.google.com/github/ParsaHejabi/BSc-Thesis-Project/blob/main/JupyterNotebook/BScProject.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
 <p align="right">
 (<a href="#top">back to top</a>)
