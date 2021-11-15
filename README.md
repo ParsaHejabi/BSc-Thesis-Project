@@ -26,7 +26,7 @@ This repository contains:
 
 | Notebook        | Link                                                                                                                                                                                                                                        |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Jupyter Network | <a href="https://colab.research.google.com/github/ParsaHejabi/BSc-Thesis-Project/blob/main/JupyterNotebook/BScProject.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Jupyter Notebook | <a href="https://colab.research.google.com/github/ParsaHejabi/BSc-Thesis-Project/blob/main/JupyterNotebook/BScProject.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
 <p align="right">
 (<a href="#top">back to top</a>)
