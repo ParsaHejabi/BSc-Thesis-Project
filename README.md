@@ -48,7 +48,7 @@ This repository contains:
 
 ## Contact
 
-Parsa Hejabi - [@callme_parsa](https://twitter.com/callme_parsa) - parsa.hejabi@gmail.com
+Parsa Hejabi - [@callme_parsa](https://twitter.com/callme_parsa)
 
 Project Link: [https://github.com/ParsaHejabi/DS-BankFinder-Project](https://github.com/ParsaHejabi/DS-BankFinder-Project)
 
